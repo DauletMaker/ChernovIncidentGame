@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A69AABFC-12D7-EEB7-F87E-98FFF671F71A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BadOutroScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CameraControlScript.cs" Line="12" Column="37" />
+      <File FileName="Assets/Scripts/PhoneScript.cs" Line="96" Column="39" />
+      <File FileName="Assets/Scripts/ButtonScript.cs" Line="43" Column="10" />
+      <File FileName="Assets/Scripts/TimerScript.cs" Line="17" Column="35" />
+      <File FileName="Assets/Scripts/CoolingControlScript.cs" Line="11" Column="6" />
+      <File FileName="Assets/Scripts/CoolingOverallScript.cs" Line="29" Column="13" />
+      <File FileName="Assets/Scripts/KeyboardButtonScript.cs" Line="11" Column="1" />
+      <File FileName="Assets/Scripts/PowerControlScript.cs" Line="25" Column="77" />
+      <File FileName="Assets/Scripts/EmergencyButtonScript.cs" Line="18" Column="10" />
+      <File FileName="Assets/Scripts/EmergencyControlScript.cs" Line="22" Column="38" />
+      <File FileName="Assets/Scripts/SceneControlIntro.cs" Line="19" Column="45" />
+      <File FileName="Assets/Scripts/BadOutroScript.cs" Line="16" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7a679257-6cad-48c1-b5e7-8f047cbb1ea6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
