@@ -5,7 +5,7 @@ The files in the repo include:
 
 Game Files (All of the files that are in the game)
 Additional Game Files (Visual and Sound files)
-MacOsBuild (Executable file to run the game on macos)
+MacOsBuild (Executable file to run the game on macos, if you want to execute it you have to allow to open it in the mac system privacy settings and then try to open it again)
 WindowsBuild (Executable file to run the game on windows)
 WebGLBuild (ExecutableFile to play in the web)
 LinuxBuild (Executable file to play on Linux devices)
